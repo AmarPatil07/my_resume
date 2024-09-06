@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name":"Amar Patil",
+    "description":"I'm Technical Lead with over 12+ years of hands-on experience in software development, specializing in architecting and delivering cutting-edge solutions across diverse technologies. I have a strong foundation in a wide array of programming languages and technologies",
+    "image":"profilepic.jpg",
+    "bio":"As a seasoned Technical Lead, I specialize in designing and implementing microservices architectures on platforms such as GCP, Cloud Foundry, and Azure. My expertise spans software architecture, including Microservices, N-Tier, SOA, and Onion/Clean design. I have hands-on experience in developing CI/CD pipelines using Docker, Jenkins, and GCP, as well as building APIs with Node.js and Python. With a proven ability to lead teams and manage projects, I also bring full-stack development skills with Bootstrap, Material UI, and basic Python knowledge for Data Science and AI applications.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "patil.amarsingh@gmail.com",
+    "phone": "917-571-2100",
+    "github":"https://github.com/amarpatil07",
+    "project":"https://github.com/amarpatil07",
+    "address":{
+      "street":"Kharadi-Hadapsar Road",
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411028"
+    },
+    "website": "http://www.google.com",
+    "resumedownload":"https://docs.google.com/document/d/1LZhsbwGc5Faj-5S5FN4MTht9B03TSV9l/edit?usp=sharing&ouid=113256400982285613242&rtpof=true&sd=true",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/amarpatil07",
+        "className":"fa fa-linkedin"
+      },     
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Shivaji University",
+        "degree":"B.E. Computer Science & Engineering",
+        "graduated":"RIT",
+        "description":""
+      }      
+    ],
+    "work":[
+      {
+        "company":"Springer Nature",
+        "title":"Technical Lead",
+        "years":"June 2016 - Present",
+        "description":"Architecture and Design • Code Review • Provide technical guidance and solutions to the team • Stay updated with the latest industry trends and technologies • Experiment with new technologies/libraries/tools and integrate them into the project if beneficial • Documentation • Team Management • Project Management • Vision and Strategy • Communicate effectively with stakeholders, including clients, management, and other teams • Identify areas for improvement in the development process and implement changes to enhance efficiency and productivity • Promote best practices and standardization within the team • Coding and Development"
+      },
+      {
+        "company":"System Plus",
+        "title":"Consultant",
+        "years":"Sept 2014 - June 2016",
+        "description":"Wokred for Associa, it is Biggest US Based Company specialized in community Management Business. It Uses Various Products for its internal and external customers for dealing with Community Management Business. This Products are built to support scattered Data across all its branches. Process of centralization of this data leveraging the tools it develops is key strategy for IT Department."
+      },
+      {
+        "company":"Spadework Software Services Pvt. Ltd",
+        "title":"Sr. Solution Developer",
+        "years":"March 2010 - Sept 2014",
+        "description":"I have worked on multiple projects utilizing various Microsoft technologies and had the privilege of collaborating with prestigious clients, including Microsoft, Hyderabad."
+      }
+    ],
+    "skills":[
+      {
+        "name":".Net Core",
+        "level":"90%"
+      },     
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"60%"
+      },
+      {
+        "name":"Azure",
+        "level":"70%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"GCP",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"Architecture and Design",
+        "level":"80%"
+      },
+      {
+        "name":"AI & ML",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
