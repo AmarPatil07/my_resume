@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Amar Patil",
-    "description":"I'm Technical Lead with over 12+ years of hands-on experience in software development, specializing in architecting and delivering cutting-edge solutions across diverse technologies. I have a strong foundation in a wide array of programming languages and technologies",
+    "description":"I'm Technical Lead with over 13+ years of hands-on experience in software development, specializing in architecting and delivering cutting-edge solutions across diverse technologies. I have a strong foundation in a wide array of programming languages and technologies",
     "image":"profilepic.jpg",
     "bio":"As a seasoned Technical Lead, I specialize in designing and implementing microservices architectures on platforms such as GCP, Cloud Foundry, and Azure. My expertise spans software architecture, including Microservices, N-Tier, SOA, and Onion/Clean design. I have hands-on experience in developing CI/CD pipelines using Docker, Jenkins, and GCP, as well as building APIs with Node.js and Python. With a proven ability to lead teams and manage projects, I also bring full-stack development skills with Bootstrap, Material UI, and basic Python knowledge for Data Science and AI applications.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
